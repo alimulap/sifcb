@@ -1,0 +1,11 @@
+[package]
+name = "sifcb"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clippers = "0.1.2"
+image = "0.25.4"
+notify-rust = "4.11.3"
+rfd = "0.15.0"
+
